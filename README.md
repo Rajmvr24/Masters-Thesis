@@ -29,3 +29,7 @@ The following tasks are performed in order to achieve the Aim of the research pr
 •	Perform the comparison of measured values and predicted values for different propagation models to find best suited model in macro cell environments.
 
 •	Calibrate the proposed model by adjusting the correction coefficient.
+
+## Illustration of work flow chart
+
+
