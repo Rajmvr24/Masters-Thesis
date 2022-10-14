@@ -32,4 +32,6 @@ The following tasks are performed in order to achieve the Aim of the research pr
 
 ## Illustration of work flow chart
 
+![Screen Shot](images/flow chart.png)
+
 
