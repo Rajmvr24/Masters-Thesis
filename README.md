@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/VigneshRaj/Master-thesis">
+  <a href="https://github.com/Rajmvr24/Masters-Thesis/blob/main/Images/logo.jpg">
     <img src="images/logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
