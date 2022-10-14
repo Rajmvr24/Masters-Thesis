@@ -5,10 +5,9 @@
   </a>
 
   <h3 align="center">INVESTIGATION OF 5G RADIO WAVE PROPAGATION IN MACRO CELL ENVIRONMENTS
-<h3 align="center"> Masters-Thesis
   </h3>
     <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
+    Master Thesis
     <br/>
     <br/>
   </p>
