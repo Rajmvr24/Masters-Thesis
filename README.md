@@ -48,6 +48,7 @@ The following tasks are performed in order to achieve the Aim of the research pr
 ## Measurement Plot and Directions
 
 <br/>
+
 The 5G base station is located at Savanorių avenue 363, Kaunas is chosen to take practical measurements. The latest 5G phone Poco M3 Pro, which is compatible with 5G services in Lithuania is used. Different parameter values are noted at a different distances in three directions as shown in below figure. The coordinates of the tower location are 689494.22,6090141.7 WGS 84 / UTM zone 34N. The below figure shows the base station transmitter sectors direction angle.
 
 <br/>
@@ -192,8 +193,6 @@ This research work presents the overview of investigation of 5G in a Macrocell e
 <br/>
 
 ## Authors
-
-<br/>
 
 * **Vignesh Raj Muthupandy** - *Electronics Engineering student*  -[Vignesh Raj Muthupandy](https://www.linkedin.com/in/vignesh-raj-muthupandy-68a0b41a3) - *Linkedin*
 
