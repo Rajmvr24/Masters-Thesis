@@ -33,8 +33,6 @@ The following tasks are performed in order to achieve the Aim of the research pr
 •	Calibrate the proposed model by adjusting the correction coefficient.
 
 <br/>
-<br/>
-
 ## Illustration of work flow chart
 
 <br/>
